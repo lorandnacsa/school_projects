@@ -48,7 +48,6 @@ Parallel execution is used to speed up predictions across test samples.
 
 Install the required dependencies:
 
-    -```bash
     -pip install qiskit qiskit-aer numpy scikit-learn
 
 ---
